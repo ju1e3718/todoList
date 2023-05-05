@@ -60,7 +60,7 @@ input {
 }
 
 ul {
-    margin: 5% 20% 5% 20%;
+    margin: 5% 20% 5% 25%;
     /* list-style: none; */
     text-align: left;
     font-size: larger;
@@ -68,6 +68,7 @@ ul {
 
 li {
     padding: 2%;
+    padding-left: 7%;
 }
 
 #noteIcon {
